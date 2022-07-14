@@ -8,6 +8,8 @@ public class CepycApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CepycApplication.class, args);
+                          
+                
 	}
 
 }
